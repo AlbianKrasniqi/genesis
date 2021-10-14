@@ -1,0 +1,14 @@
+
+
+
+html {
+    font-size :12px;
+    font-family: var(--primary-font);
+}
+
+
+h1 { color: red;}
+h2 { color: green;}
+h3 { color: yellow;}
+h4 { color: orange;}
+h5 { color: purple;}
