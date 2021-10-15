@@ -3,11 +3,14 @@
 
 html {
     font-size :12px;
-    font-family: var(--primary-font);
 }
 
+p {
+    font-size :20px;
+    color: red;
+}
 
-h1 { color: red;}
+h1 { color: black;}
 h2 { color: green;}
 h3 { color: yellow;}
 h4 { color: orange;}
